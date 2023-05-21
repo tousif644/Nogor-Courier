@@ -78,6 +78,7 @@ const RenderLine = () => {
     {
       name: "Chittagong",
       year: 2019,
+      investment : 50000,
       agent: 16,
     },
   ];
