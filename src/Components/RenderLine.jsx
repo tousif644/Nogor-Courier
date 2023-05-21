@@ -78,7 +78,7 @@ const RenderLine = () => {
     {
       name: "Chittagong",
       year: 2019,
-      agenet: 16,
+      agent: 16,
     },
   ];
   return (
