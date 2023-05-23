@@ -5,6 +5,11 @@ body {
   background-color: #fff !important;
 }
 
+.hero-btn {
+  background: linear-gradient(45deg,#fff,#66CC8A);
+  color: #e3e3e3 ;
+  border: none;
+}
 @media (max-width: 320px) {
   .reg-mobile-button {
     display: none !important;

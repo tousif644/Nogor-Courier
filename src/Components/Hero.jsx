@@ -22,7 +22,7 @@ function Hero() {
             আবির্ভূত হয়েছে, বিভিন্ন শিল্পের জন্য এবং প্রতিটি ধাপে শ্রেষ্ঠত্ব
             প্রদান করছে।
           </p>
-          <button className="btn btn-primary">আপনার যাত্রা শুরু করুন</button>
+          <button className="btn btn-primary hero-btn">আপনার যাত্রা শুরু করুন</button>
         </div>
       </div>
     </div>
